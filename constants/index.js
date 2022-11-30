@@ -72,17 +72,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    a: 'https://github.com/rickcunha05',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    a: 'https://github.com/rickcunha05',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    a: 'https://github.com/rickcunha05',
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    a: 'https://github.com/rickcunha05',
   },
 ];
