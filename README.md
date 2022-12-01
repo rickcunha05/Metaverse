@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# METAVERSE MADNESS
 
-## Getting Started
+# Índice 
 
-First, run the development server:
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Detalhes da aplicação](#detalhes-da-aplicação )
+* [Demonstração da Aplicação](#demonstração-do-website)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Descrição do projeto
+<p> O projeto se trata de um website sobre um dos assunstos mais badalados da atualidade o metaverso que carinhosamente o chamo aqui de Metaverse Madness(loucura do metaverso). A ideia aqui é poder escolher entre 5 mundos fictcios que foram recriados dentro  do nosso metaverso onde você embarcar com seus amigos do mundo todo.
+<br/> <br/>
+ <strong>  OBS: Nossos dados são ficticios e a plataforma atualmente só conta com o front-end ou seja sem funcções ativas apenas visualizações! Se divirta com as aniomações enquanto navega!</strong>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Detalhes da aplicação 
+<p> Aqui lhes apresento algumas imagens mais detalhadas do nosso website, toda a estilização foi feita com  Tailwind css, essas imagens foram coletadas do mobile, pois o website é compativel com todas as telas.</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![details_metaverse](https://user-images.githubusercontent.com/106562630/205097177-147f8326-b997-49e9-be82-2be9994a1f33.jpg)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Demonstração do website
+https://user-images.githubusercontent.com/106562630/205094250-49c785da-be5d-46a6-94cd-c68cd36785fb.mp4
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Tecnologias Utilizadas
+<p>Seguindo meu caminho para me aperfeiçoar nas tecnologias que compem o mundo JavaScript e o front-end, utilizei a ainda versão alpha do next.js 13 que promete mudar os rumos do mercado e a requisitada bibbblioteca tailwind css para estilização no qual me possibilitou um auxilio e velocidade para o desenvolvimento da responsividade para as animações eu utilizei o framer motion um framework para animações de aplicações React/Next</p>
 
-## Learn More
+<a href="[https://www.w3schools.com/css/](https://nextjs.org/)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<a href="https://tailwindcss.com/docs/installation/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>   
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Abrir-e-rodar-o-projeto
+<p>
+  Devido a ser uma aplicação simples e ao package.json que guarda todas nossas dependencias é bem simples executar a aplicação
+  1 - Basta baixar a ultima versão do node.js em: https://nodejs.org/en/download/
+  2 - Depois faça um clone do projeto
+  3 - Abra a pasta da aplicação no vsCode
+  4 - No terminal do vsCode execute Npm i ou Npm install. Isso vai instalar todas as dependencias que a aplicação precisa para funcionar
+  5 - Em seguida execute Npm run dev e abre o projeto em http://localhost:3000/
+  6 - se deu tudo certo o projeto ira esta rodando normalmente
+</p>
